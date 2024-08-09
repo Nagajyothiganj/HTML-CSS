@@ -1,3 +1,5 @@
+//here styles should be apply on <head> also because
+in external css the styles should be added in <head>section also
 <!DOCTYPE html>
 <html>
     <head>
